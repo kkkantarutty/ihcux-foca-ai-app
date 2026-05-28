@@ -1,12 +1,5 @@
 # README.md
 
-Gabrielly Cunha
-Mariana Duarte
-Thais Augusta
-Arthur Cantarutti
-Bernardo Rocha
-Guilherme Augusto
-
 ## Visão Geral
 Integrantes: Arthur Cantarutti, Bernardo Rocha, Guilherme Augusto, Gabrielly Cunha, Mariana Duarte, Thais Augusta
 
